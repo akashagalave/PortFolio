@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
     // EmailJS Form Submission
-    emailjs.init("wJfYpFwAalqQqXron");
+    emailjs.init("IbH8VxSgYZ6gu5rZK");
     
     document.getElementById("contact-form").addEventListener("submit", function (event) {
         event.preventDefault();
